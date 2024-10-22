@@ -27,7 +27,7 @@ For support, email sagorsamadder.official@gmail.com
 
 ## Features
 
-- Light/dark mode toggle
+- Push Notification
 - Live previews
 - Fullscreen mode
 - Cross platform

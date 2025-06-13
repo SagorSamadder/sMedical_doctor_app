@@ -1,4 +1,3 @@
-
 # sMedical-doctor
 
 This is a complete doctor appointment doctors app there doctor can see or modify appointments.
